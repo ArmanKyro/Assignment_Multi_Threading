@@ -1,10 +1,10 @@
 # Assignment: Multi-Threading
 
 ## Description
-The objective of this assignment is to multiply 100 random matrices of size \(1000 \times 1000\) with a constant matrix of size \(1k \times 1k\). After performing the multiplication, the assignment requires generating a result table, graph, and CPU usages.
+The objective of this assignment is to multiply 100 random matrices of size \(1000 x 1000\) with a constant matrix of size \(1k \times 1k\). After performing the multiplication, the assignment requires generating a result table, graph, and CPU usages.
 
 ## Task
-1. Multiply 100 random matrices of size \(1000 \times 1000\) with a constant matrix of size \(1k \times 1k\).
+1. Multiply 100 random matrices of size \(1000 x 1000\) with a constant matrix of size \(1k \times 1k\).
 2. Generate a result table displaying the time taken for each number of threads.
 3. Generate a graph depicting the relationship between the number of threads and the time taken for matrix multiplication.
 4. Record and present CPU usages for each configuration.
